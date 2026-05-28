@@ -39,9 +39,7 @@ Termux Installation
 - pip install requests beautifulsoup4
 - git clone https://github.com/y3tazyy/URL-PARAMETER-FINDER.git
 - cd URL-PARAMETER-FINDER
-
-Run:
-
+- git pull
 - python finder.py
 
 ---
