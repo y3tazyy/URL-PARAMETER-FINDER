@@ -37,8 +37,8 @@ Termux Installation
 - pkg update && pkg upgrade -y
 - pkg install python -y
 - pip install requests beautifulsoup4
-- git clone
-- cd 
+- git clone https://github.com/y3tazyy/URL-PARAMETER-FINDER.git
+- cd URL-PARAMETER-FINDER
 
 Run:
 
