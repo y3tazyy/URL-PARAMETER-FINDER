@@ -34,13 +34,15 @@ Platform Support
 
 Termux Installation
 
-pkg update && pkg upgrade -y
-pkg install python -y
-pip install requests beautifulsoup4
+- pkg update && pkg upgrade -y
+- pkg install python -y
+- pip install requests beautifulsoup4
+- git clone
+- cd 
 
 Run:
 
-python finder.py
+- python finder.py
 
 ---
 
