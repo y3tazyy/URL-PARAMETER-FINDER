@@ -57,5 +57,5 @@ Misuse is strictly discouraged.
 
 Author
 
-Dev : Ohang
-Telegram : Cyber Operation Culture MY
+- Dev : Ohang
+- Telegram : Cyber Operation Culture MY
